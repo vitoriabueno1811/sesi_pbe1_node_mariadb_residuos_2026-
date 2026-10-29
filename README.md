@@ -20,9 +20,9 @@
 ---
  - Node.js
  - Java Script
- -Insomnia
- -XAMPP
- -MariaDB / MySQL
+ - Insomnia
+ - XAMPP
+ - MariaDB / MySQL
  - VS Code
  ---
 
