@@ -1,0 +1,22 @@
+{
+  "name": "gestao_residuos_solidos",
+  "version": "1.0.0",
+  "description": "gerenciar a gestao de residuos",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "vitoriabueno1811",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
+    "mysql": "^2.18.1"
+  },
+  "directories": {
+    "doc": "docs"
+  }
+}
